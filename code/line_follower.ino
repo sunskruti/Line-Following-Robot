@@ -1,4 +1,3 @@
-
 // ============================================================================
 // Line Following Robot (3 IR Sensor Array with L298N Motor Driver)
 // ============================================================================
@@ -128,4 +127,3 @@ void stopMotors() {
   digitalWrite(IN3, LOW);
   digitalWrite(IN4, LOW);
 }
-
